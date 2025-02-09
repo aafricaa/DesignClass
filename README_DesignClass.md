@@ -8,7 +8,7 @@ Te permite organizar a tus alumnos según las condiciones que establezcas. Olví
 ---
 
 ## 💡 Como utilizar la aplicación:
-Al registrarte, lo primero que debes hacer es **crear una nueva clase**, donde podrás introducir a tus alumnos.
+Al registrarte, lo primero que debes hacer es <p style="color:red;">**crear una nueva clase**</p>, donde podrás introducir a tus alumnos.
 Si tienes alguna **condición específica**, como que **un alumno se lleva mal con otro** podrás agregarlo durante la creación del perfil de cada estudiante.
 Además si **prefieres que un alumno se siente en una fila** en específico para que pueda prestar más atención, podrás **incluir también esta preferencia en su perfil.**
 Por otro lado, si deseas hacer una distribución de tu clase sin tener en cuenta ninguna condición en específico, simplemente agrega a tus alumnos y **deja que la aplicación se encargue del resto.** 
