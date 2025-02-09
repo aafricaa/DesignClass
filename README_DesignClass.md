@@ -13,7 +13,7 @@ Si tienes alguna **condición específica**, como que **un alumno se lleva mal c
 Además si **prefieres que un alumno se siente en una fila** en específico para que pueda prestar más atención, podrás **incluir también esta preferencia en su perfil.**
 Por otro lado, si deseas hacer una distribución de tu clase sin tener en cuenta ninguna condición en específico, simplemente agrega a tus alumnos y **deja que la aplicación se encargue del resto.** 
 
-### 📌 Proceso de Distribución de la Clase
+### 📌 Proceso de distribución de la clase
 
 A continuación, te mostramos el flujo que sigue la aplicación con los pasos para organizar tu clase.
 ![Diagrama De FLujo](https://github.com/aafricaa/DesignClass/blob/main/diagrama.png)
