@@ -1,6 +1,6 @@
 # Design Class
 ### Tu clase perfecta, al instante⏳📚
-Aplicación diseñada para **facilitar la distribuición de tu aula.**
+Hemos creado una aplicación para **facilitarte la distribuición de clase.**
 Te permite organizar a tus alumnos según las condiciones que establezcas. Olvídate del trabajo extra de decidir dónde sentar a cada estudiante, con DesignClass todos estos problemas se resuelven en cuestión de segundos.
 ![Imagen clase](https://github.com/aafricaa/DesignClass/blob/main/imagen.jpg)
 
