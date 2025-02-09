@@ -40,7 +40,7 @@ Aquí puedes ver que tipo de usuarios están utilizando nuestra aplicación.
 
 Estaremos encantados de ayudarte, escríbenos. 
 
-📩 **Contáctanos:** [designclass.soporte@gmail.com](mailto:designclass.soporte@gmail.com)  
+📩 [designclass.soporte@gmail.com](mailto:designclass.soporte@gmail.com)  
 
 
 
