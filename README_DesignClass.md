@@ -20,7 +20,7 @@ A continuación, te mostramos el flujo que sigue la aplicación con los pasos pa
 
 
 ## 🛠️ ¿Qué Tecnologías hemos utilizado? 
-En cuanto a la creación de la aplicación, hemos seleccionado las mejores tecnologías para asegurarnos de ofrecerte el mejor desarrollo posible.
+En cuanto a la creación de la aplicación, hemos seleccionado las mejores tecnologías para asegurarnos de ofrecerte el mejor desarrollo posible.<p style="color:red;"> 
 
 - **Backend y Frontend->** Android Studio utilizando Kotlin como lenguaje de programación
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
